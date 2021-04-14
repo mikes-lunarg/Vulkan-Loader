@@ -6,7 +6,7 @@
       "sub_dir" : "Vulkan-Headers",
       "build_dir" : "Vulkan-Headers/build",
       "install_dir" : "Vulkan-Headers/build/install",
-      "commit" : "v1.2.174"
+      "commit" : "f5ac258209dc535973aa527bf3c11ba7063ba1b0"
     }
   ],
   "install_names" : {
